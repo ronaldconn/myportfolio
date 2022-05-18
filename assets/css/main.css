@@ -3877,3 +3877,11 @@ footer#footer li{
 	margin: 0;
 	padding: 0 .5em;
 }
+
+/* captcha */
+
+div.captcha{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
